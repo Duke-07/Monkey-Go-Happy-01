@@ -85,7 +85,7 @@ function draw() {
       changeImage.visible=false;
       backgroundy.visibe=false;
       obstacleGroup.setVisibleEach(false);
-      bananaGroup.setVisibleEach=(false);
+      bananaGroup.setVisibleEach(false);
       monkey.visible=false;
       backgroundy.visible=false;
       fill("yellow");
